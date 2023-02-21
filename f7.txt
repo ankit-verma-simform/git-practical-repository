@@ -1,0 +1,2 @@
+this is file for commit message change feature
+
